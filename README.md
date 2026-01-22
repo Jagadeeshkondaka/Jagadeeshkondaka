@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Jagadeesh kondaka
-**A passionate Web developer || ML Engineer ||  from Andhra pradesh India**
+**A passionate Web developer || ML Engineer ||  from Andhra pradesh, India**
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshkondaka123@gmail.com) 
 
